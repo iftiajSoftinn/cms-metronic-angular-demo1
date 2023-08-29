@@ -1,4 +1,4 @@
-# Metronic - Bootstrap 5 HTML, React, Angular, VueJS & Laravel Admin Dashboard Theme
+# Metronic - Demo 8 Angular Dashboard
 
 - The Angular version can be downloaded online from [Metronic Downloads](//devs.keenthemes.com/metronic)
 
